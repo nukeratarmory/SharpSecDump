@@ -1,7 +1,6 @@
 {
     "name": "SharpSecDump",
     "version": "0.0.1",
-    "uuid": "a5310f1f-78aa-448b-8dca-963222fc38eb",
     "command": "sharp-secdump",
     "type": ".net",
     "repository": "https://github.com/nukeratarmory/SharpSecDump",
